@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+body{
+	margin:0px;
+	padding:0px;
+}
+.main-container{
+	margin:0px;
+	padding:20px;
+	background-color:#f5f5f5;
+/* 	border:5px solid black; */
+}
+testimonial{
+	margin:3% auto;
+	padding:20px;
+	background-color:white;
+	border:1px solid gray;
+	border-radius:2px;
+	display:block;
+}
+text{
+/* 	font-weight:bold; */
+}
+author{
+	display:block;
+	text-align:right;
+	font-style:italic;
+}
