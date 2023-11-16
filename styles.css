@@ -11,14 +11,13 @@ body{
 }
 .testimonial{
 	margin:3% auto;
-	padding:20px;
+	padding:15px;
 	background-color:white;
 	border:1px solid gray;
 	border-radius:2px;
 	display:block;
 }
-author{
-	display:block;
+.author{
 	text-align:right;
 	font-style:italic;
 }
